@@ -70,7 +70,7 @@ Exploring automation and CI/CD pipelines with test strategy implementations.
 ## 📫 Connect With Me
 
 - ✉️ Email: priya.sh2010@gmail.com  
-- 💼 [LinkedIn]([#](https://www.linkedin.com/in/priyanka-sharma-b3205922/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanka-sharma-b3205922/)  
 - 🌐 [GitHub](https://github.com/PriyankaSharma0925)
 
 Let’s connect, collaborate, and grow 🚀
