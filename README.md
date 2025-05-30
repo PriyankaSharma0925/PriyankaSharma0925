@@ -8,7 +8,7 @@ With over 10 years of experience across education, finance, and e-commerce, I sp
 
 ## 🌟 Areas of Focus
 
-- **Quality Engineering**: Enterprise QA, test automation, CI/CD pipelines, defect triage
+- **Quality Engineering**: Enterprise QA, test automation, CI/CD pipelines.
 - **Cloud & AI**: AWS Cloud Practitioner & AI Practitioner certified
 - **Data Science**: UBC Data Science certification, machine learning, and NLP projects
 - **Tools**: Python · Selenium · Jenkins · JIRA · GitHub · SQL · Postman · Tableau · Workday Student
