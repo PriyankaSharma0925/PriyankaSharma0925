@@ -26,14 +26,14 @@ Deploying ML-based recommendation engines on various platforms.
 ### 🏫 [UBC Digital Portfolio](https://github.com/PriyankaSharma0925/UBC_digital-portfolio)
 Collection of exercises, notebooks, and learning artifacts from UBC’s Data Science program.
 
-### 🧪 [CI/CD Test Framework](https://github.com/PriyankaSharma0925/ci-cd-test-framework)
-Exploring automation and CI/CD pipelines with test strategy implementations.
-
-### 🔄 [ML TensorFlow Fundamentals](https://github.com/PriyankaSharma0925/ml-tensorflow-fundamentals)
-Fundamentals of TensorFlow models and applications.
-
 ### 📈 [Kaggle Journey](https://github.com/PriyankaSharma0925/ds-kaggle-journey)
 Projects and submissions from data science competitions and Kaggle challenges.
+
+### 🔄 [ML TensorFlow Fundamentals](https://github.com/PriyankaSharma0925/ml-tensorflow-fundamentals)
+Fundamentals of TensorFlow models and applications
+
+### 🧪 [CI/CD Test Framework](https://github.com/PriyankaSharma0925/ci-cd-test-framework)
+Exploring automation and CI/CD pipelines with test strategy implementations.
 
 ---
 
